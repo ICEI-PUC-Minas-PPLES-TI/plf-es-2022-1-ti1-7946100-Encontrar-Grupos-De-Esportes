@@ -15,4 +15,4 @@
 ## Instruções
 
 <p>Acesse o link: </p>
-<p>https://k1dias.github.io/Projeto-SportMatch/telaCadastro.html</p>
+<p>[https://k1dias.github.io/Projeto-SportMatch/telaCadastro.html](https://icei-puc-minas-pples-ti.github.io/plf-es-2022-1-ti1-7946100-Encontrar-Grupos-De-Esportes/)</p>
